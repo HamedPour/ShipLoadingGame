@@ -1,0 +1,10 @@
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\bin\Debug\ShipLoadingGame.exe.config
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\bin\Debug\ShipLoadingGame.exe
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\bin\Debug\ShipLoadingGame.pdb
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\obj\Debug\ShipLoadingGame.csprojAssemblyReference.cache
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\obj\Debug\ShipLoadingGame.Form1.resources
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\obj\Debug\ShipLoadingGame.Properties.Resources.resources
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\obj\Debug\ShipLoadingGame.csproj.GenerateResource.cache
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\obj\Debug\ShipLoadingGame.csproj.CoreCompileInputs.cache
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\obj\Debug\ShipLoadingGame.exe
+D:\CodeSandbox\Projects\C#Dev\ShipLoadingGame\obj\Debug\ShipLoadingGame.pdb
